@@ -1,0 +1,13 @@
+streamlit>=1.32
+pandas>=2.0
+numpy>=1.24
+plotly>=5.18
+yfinance>=0.2.36
+requests>=2.31
+pypdf>=4.0
+feedparser>=6.0
+beautifulsoup4>=4.12
+lxml>=5.0
+openpyxl>=3.1
+reportlab>=4.0
+kaleido>=0.2.1
